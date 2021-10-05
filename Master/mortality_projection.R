@@ -3,7 +3,7 @@
 ########## Praca magisterska ###########
 ########################################
 
-setwd('/Users//tyszkowskid//Library//Mobile Documents//com~apple~CloudDocs//Nauka/Magisterskie//Magisterka//GitHub//')
+setwd('...//GitHub//')
 options(warn=-1)
 
 ####### Uzyte biblioteki #######
